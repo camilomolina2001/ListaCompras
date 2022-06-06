@@ -3,5 +3,17 @@
 <!DOCTYPE listacompras SYSTEM "listaCompras.dtd">
 
 <listacompras>
-    <venta></venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>135000</cantidad>
+            <divisa>peso colombiano</divisa>
+        </ventainmediata>
+    </venta>
+
+    <venta>
+        <ventaacredito>
+            <fechafinpago>17/01/2023</fechafinpago>
+            <cantidad>768</cantidad>
+        </ventaacredito>
+    </venta>
 </listacompras>
